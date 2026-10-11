@@ -35,31 +35,22 @@
 
 * Skill: Electronics - Arduino UNO
 * Physical Recreation: Football - Soccer
-* Voluntary Service: Coaching/Teaching Robotics CCA
-                     Environmental Research Volunteering
+* Voluntary Service: Coaching/Teaching Robotics CCA and Environmental Research Volunteering
 * Adventurous Journey (3 days, 2 nights)
    * Preparation and Training
    * Practice Journey
    * Qualifying Journey
 
-## Karate Black Belt Holder
+---
+
+## Extracurriculars
+
+### Karate Black Belt Holder
+
+* I trained for 8 years
 
 <img width="368.5" height="640" alt="1b62030a-0707-4b9c-a4d6-7686ddecae75" src="https://github.com/user-attachments/assets/cfaa6047-881d-469b-8f0b-1cc89d52dbb9" />
 
-##
-
----
-
-## Skills
-
-### Design & Creative Tools
-
-* Image Editing & Photo Manipulation
-* Vector Graphics & Illustration
-* Layout & Editorial Design
-* UI/UX Design
-* Visual Interface Design
-* Presentation & Documentation Tools
 
 ### Core Competencies
 
